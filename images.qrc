@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iamages/qrcode.png</file>
+        <file>iamages/github.png</file>
+    </qresource>
+</RCC>
